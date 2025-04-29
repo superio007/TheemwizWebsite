@@ -1,1 +1,5 @@
 @import "tailwindcss";
+* {
+  font-family: "Epilogue", sans-serif;
+  /* background-color: #f3d1bf; */
+}

@@ -1,0 +1,16 @@
+@use "../../mainVariables" as *;
+.Logo{
+    font-size: $font-size-h4;
+    font-weight: $font-weight-bold;
+    line-height: $line-height-h4;
+    color: $primary-color;
+}
+.NavItem{
+    font-size: $font-size-Paragraph;
+    font-weight: $font-weight-body;
+    line-height: $line-height-Paragraph;
+    color: $primary-color;
+}
+.ContactBtn{
+    
+}
